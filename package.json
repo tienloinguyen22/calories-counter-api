@@ -18,7 +18,7 @@
     "lodash": "^4.17.15",
     "mysql": "^2.18.1",
     "uuid": "^7.0.2",
-    "xlsx": "^0.16.1",
+    "xlsx": "^0.17.0",
     "yup": "^0.27.0"
   },
   "description": "Food calories counter to help your become healthier",
